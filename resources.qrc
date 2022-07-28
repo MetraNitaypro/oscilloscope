@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/qmloscilloscope/Main.qml</file>
+        <file>qml/qmloscilloscope/ControlPanel.qml</file>
+        <file>qml/qmloscilloscope/ScopeView.qml</file>
+        <file>qml/qmloscilloscope/MultiButton.qml</file>
+        <file>qml/qmloscilloscope/Winsow_SettingsForm.ui.qml</file>
+        <file>qml/qmloscilloscope/Setor_1.qml</file>
+        <file>qml/qmloscilloscope/Graph.qml</file>
+        <file>qml/qmloscilloscope/PanelForm.ui.qml</file>
+        <file>qml/qmloscilloscope/But.qml</file>
+        <file>qml/qmloscilloscope/ACDC.qml</file>
+        <file>qml/qmloscilloscope/DCDC.qml</file>
+        <file>qml/qmloscilloscope/DCAC.qml</file>
+        <file>qml/qmloscilloscope/Slide.qml</file>
+        <file>qml/qmloscilloscope/WsdfForm.ui.qml</file>
+        <file>qml/qmloscilloscope/Buttom_Off.qml</file>
+        <file>qml/qmloscilloscope/Invertor.qml</file>
+        <file>qml/qmloscilloscope/Max_Val.qml</file>
+        <file>qml/qmloscilloscope/DCDCForm.qml</file>
+        <file>qml/qmloscilloscope/DCACForm.qml</file>
+        <file>qml/qmloscilloscope/ACDCForm.qml</file>
+        <file>qml/qmloscilloscope/Grapp_hh.qml</file>
+        <file>qml/qmloscilloscope/Menu.qml</file>
+        <file>qml/qmloscilloscope/MenuForm.qml</file>
+        <file>qml/qmloscilloscope/FVVjvnWbONI.png</file>
+        <file>qml/qmloscilloscope/Grapp_hhForm.qml</file>
+        <file>qml/qmloscilloscope/Set.qml</file>
+    </qresource>
+</RCC>
